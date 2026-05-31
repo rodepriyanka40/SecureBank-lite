@@ -53,6 +53,7 @@ This project designs a **secure, compliant cloud architecture** for a banking ap
 ## Author
 
 **Priyanka Rode**
+
 Project for – Cloud Security & Compliance Implementation.
 
 ---
